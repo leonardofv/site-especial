@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: #ffcccc;
+}
+
+.container {
+    padding: 30px;
+}
+
+.container h1 {
+    color: red;
+}
+
+.heart {
+    position: absolute;
+    font-size: 25px;
+    color: red;
+    cursor: pointer;
+    background-color: #ffcccc;
+    padding: 20px 50px;
+    border-radius: 20px;
+    border: solid red 2px;
+    margin-left: -180px;
+}
+
+#nao {
+   position: absolute;
+   font-size: 25px;
+   color: red;
+   background-color: #ffcccc;
+   padding: 20px 50px;
+   margin-right: 50px;
+   border-radius: 20px;
+   border: solid red 2px;
+}
