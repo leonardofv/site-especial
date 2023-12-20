@@ -1,0 +1,53 @@
+body {
+    background-image: linear-gradient(to bottom, #ffcccc, rgb(255, 203, 212));
+    background-attachment: fixed;
+    /*colocando degradê*/
+  }
+  
+header {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+header a {
+    margin: 30px;
+    text-decoration: none;
+    font-size: 30px;
+    color: red;
+}
+
+.primeira {
+    display: flex;
+    margin: 0 400px 0 0px;
+}
+
+.primera-imagem {
+    border-radius: 60px;
+    width: 550px;
+    height: 380px;
+    margin-left: 150px;
+}
+
+.primeira p {
+    color: red;
+    margin-left: 5%;
+    width: auto;
+}
+
+.segunda {
+    display: flex;
+    margin-top: 10%;
+}
+
+.segunda-imagem {
+    width: 300px;
+    height: 440px;
+    margin: 0 250px 0 30px;
+    border-radius: 10%;
+}
+
+.segunda p {
+    margin-left: 600px;
+    color: red;
+}

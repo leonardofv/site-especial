@@ -1,14 +1,16 @@
 body {
     text-align: center;
     background-color: #ffcccc;
+    margin: 40px;
 }
 
 .container {
-    padding: 30px;
+    padding: 50px;
 }
 
 .container h1 {
     color: red;
+    padding: 10px;
 }
 
 .heart {
