@@ -1,8 +1,8 @@
 function mostrarResposta() {
 
-    window.alert('Que bom que escolheu SIM, não tinha escolha mesmo kkkk');
+    window.alert('Que bom que escolheu SIM❤️, não tinha escolha mesmo kkkk');
     window.alert('Agora vamos para outro parte do site');
-    window.alert('Uiiiiii');
+    window.alert('Uiiiiii❤️❤️❤️');
     window.location.href = './pagina2/pagina2.html'
 
 
