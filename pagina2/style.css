@@ -24,15 +24,16 @@ header a {
 
 .primera-imagem {
     border-radius: 60px;
-    width: 550px;
-    height: 380px;
+    width: 400px;
+    height: 300px;
     margin-left: 150px;
+    box-shadow: 8px 8px 10px black;
 }
 
 .primeira p {
     color: red;
     margin-left: 5%;
-    width: auto;
+    width: 20%;
 }
 
 .segunda {
@@ -41,13 +42,64 @@ header a {
 }
 
 .segunda-imagem {
-    width: 300px;
-    height: 440px;
-    margin: 0 250px 0 30px;
+    width: 225px;
+    height: 390px;
+    margin: 0 100px 0 30px;
     border-radius: 10%;
+    box-shadow: 10px 10px 10px black;
 }
 
 .segunda p {
-    margin-left: 600px;
+    width: 20%;
+    margin-left: 700px;
     color: red;
+}
+
+.terceira {
+    display: flex;
+    margin-top: 10%;
+}
+
+.terceira-imagem {
+    width: 300px;
+    height: 400px;
+    margin: 5px 50px 0 150px;
+    border-radius: 10%;
+    box-shadow: 8px 8px 10px black;
+}
+
+.terceira p {
+    width: 20%;
+    color: red;
+}
+
+.quarta {
+    display: flex;
+}
+
+.quarta-imagem {
+    width: 300px;
+    height: 400px;
+    margin: 5px 150px 5px 50px;
+    border-radius: 20%;
+    box-shadow: 8px 8px 10px black;
+}
+
+.quarta p {
+    color: red;
+    width: 60%;
+    margin-left: 50%
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+#meu-video {
+    width: 30%;
+    height: 15%;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 15px;
 }
